@@ -1,5 +1,5 @@
 // dp1.cpp: Definiuje punkt wejścia dla aplikacji.
-//
+// "Ver 1.0"
 
 #include "stdafx.h"
 #include "dp1.h"
